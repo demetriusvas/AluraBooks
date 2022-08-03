@@ -9,6 +9,13 @@ Visit - [AluraBooks](https://www.google.com)
 
 :heavy_check_mark: Aplicando a metodologia mobile-first
 
+* Acessar e visualizar o projeto no Figma;
+* Captar informações como as cores dos elementos no Figma;
+* Começar a construir um projeto HTML;
+* Criar variáveis CSS;
+* Usar a extensão live-server;
+* Aplicar o reset.css.
+
 :heavy_check_mark: Criando Header, Flexbox e @import
 
 :heavy_check_mark: Integrando o Carrosel com o Swiper JS
