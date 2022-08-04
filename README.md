@@ -18,6 +18,16 @@ Visit - [AluraBooks](https://www.google.com)
 
 :heavy_check_mark: Criando Header, Flexbox e @import
 
+* Baixar imagens no Figma;
+* Construir um header;
+* Transformar elementos em flex-containers e flex-items com FlexBox;
+* Associar arquivos CSS através do @import;
+* Desenvolver um menu hambúrguer interativo com HTML e CSS;
+* Position relative e absolute;
+* Importar e usar fontes do google fonts;
+* Criar sections;
+* Editar input e seu placeholder.
+
 :heavy_check_mark: Integrando o Carrosel com o Swiper JS
 
 :heavy_check_mark: Selecionando Media Queries
