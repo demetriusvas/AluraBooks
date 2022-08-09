@@ -30,6 +30,13 @@ Visit - [AluraBooks](https://www.google.com)
 
 :heavy_check_mark: Integrando o Carrosel com o Swiper JS
 
+* Aplicar plugins externos através de CDN;
+* Utilizar o plugin SwiperJS;
+* Reforçar o aprendizado de flexbox;
+* Reutilizar elementos e estilos;
+* Criar listas;
+* Editar input e seu placeholder.
+
 :heavy_check_mark: Selecionando Media Queries
 
 :heavy_check_mark: Produzindo CSS no Desktop
