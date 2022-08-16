@@ -39,6 +39,11 @@ Visit - [AluraBooks](https://www.google.com)
 
 :heavy_check_mark: Selecionando Media Queries
 
+* Usar media queries;
+* Aplicar diferentes estilos para diferentes tamanhos de tela;
+* Retirar elementos da tela;
+* Aplicar elementos na tela de acordo com o tamanho do dispositivo.
+
 :heavy_check_mark: Produzindo CSS no Desktop
 
 :heavy_check_mark: Publicando o projeto
