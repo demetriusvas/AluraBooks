@@ -46,14 +46,23 @@ Visit - [AluraBooks](https://www.google.com)
 
 :heavy_check_mark: Produzindo CSS no Desktop
 
+* Aplicar estilos com media queries diferentes;
+* Usar estilos diferentes no mesmo elemento com pseudo-classes.
+
 :heavy_check_mark: Publicando o projeto
+
+* Construir um repositório com o código do curso;
+* Escrever commits;
+* O que é deploy;
+* Fazer deploy no Github Pages;
+* Abrir o projeto em outros dispositivos.
 
 
 ## ✅ Linguagens utilizadas 👇
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
